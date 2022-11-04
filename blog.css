@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+.main-header{
+    color: rgb(255, 255, 255);
+    background:rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px ;
+    font-family: 'Poppins', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.main-footer{
+    color: rgb(255, 255, 255);
+    background:rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px ;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin-top: 1%;
+    margin-left: 7%;
+    margin-right: 10%;
+    align-content: unset;
+    display: inline-block;
+    font-family: 'Poppins', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.campo{
+    margin-top: 1%;
+    margin-left: 7%;
+    margin-right: 10%;
+    align-content: unset;
+    display: inline-block;
+    font-family: 'Poppins', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid rgb(12, 10, 10);
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+ul li{
+    margin-right: 12px;
+}
+
+ul li a{
+    color: rgb(0, 0, 0);
+    font-family: 'Poppins', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style: none;
+}
+
+#menu-lateral {
+    border-bottom: 1px solid rgb(12, 10, 10);
+    list-style: none;
+    margin-left: 90%;
+    list-style: none;
+}
